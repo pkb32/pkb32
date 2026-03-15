@@ -23,7 +23,7 @@ Software Engineer at **Standard Chartered Bank** with experience in Python autom
 
 - 🏦 **Technology & Operations Apprentice** — Standard Chartered Bank, Mumbai
 - ⚙️ Delivered automation yielding **32% cost reduction** and **88% efficiency gains**
-- 🎓 **B.Tech, NIT Rourkela** — CGPA: 8.53 / 10
+- 🎓 **B.Tech in Mining Engineering, NIT Rourkela** — CGPA: 8.53 / 10
 - 🔭 Currently focused on: client management systems and enterprise microservices
 - 📬 prayashkumarb@gmail.com
 
