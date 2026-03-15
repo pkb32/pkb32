@@ -1,212 +1,89 @@
-<h1 align="center">Hi 👋, I'm Prayash Kumar Behera</h1>
-<h3 align="center">Software Engineer | MERN Stack Developer | Python Automation Engineer</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;Python+Automation+Specialist;Flask+API+Developer;Building+Scalable+Backend+Systems" />
-</p>
+<h1>Prayash Kumar Behera</h1>
+<h3>Software Engineer · Standard Chartered Bank</h3>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Engineer;Python+Automation+%7C+Flask+API+Developer;Enterprise+Microservices+%7C+Backend+Systems;C%2B%2B+%7C+DSA+%7C+Scalable+Architecture" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=pkb32&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-eight-azure.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayash-kumar-behera-89b409240/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prayashkumarb@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pkb32)
+[![Profile Views](https://komarev.com/ghpvc/?username=pkb32&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/pkb32)
 
-# 👨‍💻 About Me
-
-🚀 Software Engineer currently working at **Standard Chartered Bank**
-
-💻 Experienced in:
-
-* **MERN Stack Development**
-* **Python Automation**
-* **Flask API Development**
-* **Backend Systems & Microservices**
-
-⚡ Achievements
-
-• Built enterprise automation tools improving productivity by **73%**
-• Reduced operational cost by **32%** through automation
-• Developed optimized **YOLO video processing system reducing runtime by 66%**
-
-🎯 Interests
-
-* Scalable backend systems
-* Automation engineering
-* System design
-* Performance optimization
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## About Me
 
-### Programming Languages
+Software Engineer at **Standard Chartered Bank** with experience in Python automation, Flask API development, MERN stack engineering, and enterprise systems. I build backend solutions and automation tools that create measurable business impact — from streamlining manual workflows to onboarding production software at scale.
 
-<p>
+- 🏦 **Technology & Operations Apprentice** — Standard Chartered Bank, Mumbai
+- ⚙️ Delivered automation yielding **32% cost reduction** and **88% efficiency gains**
+- 🎓 **B.Tech, NIT Rourkela** — CGPA: 8.53 / 10
+- 🔭 Currently focused on: client management systems and enterprise microservices
+- 📬 prayashkumarb@gmail.com
+
+---
+
+## Tech Stack
+
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=python,js,cpp,c" />
-</p>
 
-### Frontend
+**Frontend**
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
 
-### Backend
+**Backend**
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
 
-### Databases
+**Databases**
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### Tools & Platforms
+**Tools & Platforms**
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
-</p>
 
 ---
 
-# 🚀 Featured Projects
+## Professional Impact
 
-### 🎥 Videotube Server (MERN)
-
-Scalable backend for a **video streaming platform**
-
-Key Features
-
-• Video upload & streaming
-• Commenting & playlists
-• Secure authentication (JWT + Bcrypt)
-• Media storage using **Cloudinary**
-
-Tech Stack
-
-`Node.js` `Express.js` `MongoDB` `JWT` `Multer`
+| Initiative | Outcome |
+|---|---|
+| Flask REST API — Automated manual vaulting workflows | 32% cost reduction · 88% efficiency gain |
+| YOLO video processing system with dynamic model selection | 66% faster runtime · reduced compute usage |
+| Python microservices for BAU automation | 73% productivity increase |
+| Enterprise software onboarding (POC → UAT → Staging → Production) | On-prem to cloud migration · vulnerability tracking |
 
 ---
 
-### 📝 Shareo Blogging Platform
+## GitHub Stats
 
-Full-stack blogging application with real-time updates.
+<div align="center">
 
-Features
+<img src="https://github-readme-stats.vercel.app/api?username=pkb32&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
 
-• Post creation/edit/delete
-• Real-time content updates
-• Optimized backend performance
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkb32&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-Tech Stack
+<img src="https://streak-stats.demolab.com/?user=pkb32&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
-`React.js` `Node.js` `Tailwind CSS` `Appwrite`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pkb32&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=pkb32&theme=algolia&no-frame=true&margin-w=10&column=6" />
 
-### 🤖 Python Enterprise Automation
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-Collection of **automation microservices and tools**
-
-Includes
-
-• Flask REST APIs
-• Business workflow automation
-• Enterprise system integrations
-• Data processing utilities
+</div>
 
 ---
 
-### 🎯 YOLO Video Processing System
-
-AI-powered video processing pipeline.
-
-Features
-
-• Dynamic model selection (nano/small/medium)
-• Tkinter GUI
-• 66% faster processing time
-
-Tech Stack
-
-`Python` `YOLO` `Tkinter`
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pkb32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkb32&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=pkb32&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pkb32&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pkb32&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-📧 Email: [prayashkumarb@gmail.com](mailto:prayashkumarb@gmail.com)
-
-💼 LinkedIn: https://linkedin.com
-
-🐙 GitHub: https://github.com/pkb32
-
-🌐 Portfolio: Coming Soon
-
----
-
-⭐ If you like my projects, consider **starring the repositories**.
+<div align="center">
+<sub>Open to collaborating on impactful engineering projects · <a href="mailto:prayashkumarb@gmail.com">prayashkumarb@gmail.com</a></sub>
+</div>
