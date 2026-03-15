@@ -64,6 +64,69 @@ Software Engineer at **Standard Chartered Bank** with experience in Python autom
 
 ---
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Videotube Server
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pkb32/Metube)
+
+Scalable backend for a **video streaming platform** supporting uploads, playback, commenting, and playlists.
+
+- 🔐 JWT + Bcrypt auth — **95% reduction** in unauthorized access
+- ☁️ Cloudinary + Multer pipeline — **30% faster** video load times
+- 📦 RESTful API with modular MVC architecture
+
+`Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Multer`
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ Shareo — Blogging Platform
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pkb32/BloggingSite)
+
+Full-stack blogging platform with real-time content management and Appwrite backend integration.
+
+- ✏️ Seamless post creation, editing, and deletion
+- ⚡ Real-time updates — **40% reduction** in server response time
+- 📈 **50% increase** in user-generated content through improved UX
+
+`React.js 18` `Node.js` `Tailwind CSS` `Appwrite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 YOLO Video Processing System
+Enterprise AI pipeline built at **Standard Chartered Bank**.
+
+- 🎯 Situational model selection: YOLO v12 nano / small / medium
+- 🖥️ User-friendly Tkinter GUI for non-technical operators
+- ⚡ **66% faster** processing with lower computational resource usage
+
+`Python` `YOLOv12` `Tkinter` `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Flask Vaulting Automation API
+Internal REST API deployed at **Standard Chartered Bank** to automate manual vaulting workflows.
+
+- 🏗️ End-to-end workflow automation replacing manual processes
+- 💰 **32% cost reduction** and **88% operational efficiency gain**
+- 🔒 Built with security and production-environment standards
+
+`Python` `Flask` `REST API` `Azure DevOps`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
