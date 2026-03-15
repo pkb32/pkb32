@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Prayash Kumar Behera</h1>
-<h3>Software Engineer · Standard Chartered Bank</h3>
+<h3>Tech & Ops apprentice · Standard Chartered Bank</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Engineer;Python+Automation+%7C+Flask+API+Developer;Enterprise+Microservices+%7C+Backend+Systems;C%2B%2B+%7C+DSA+%7C+Scalable+Architecture" />
 
